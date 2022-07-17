@@ -1,9 +1,9 @@
-Patriotic Flags Mod v1.0
+Modern War Flags Mod v1.0
 By BubbaFrog, adapted from the prideflags mod by Leslie E. Krause
 
 
-  /giveme patriot_flags:mast_lower
-  /giveme patriot_flags:mast_upper
+  /giveme modernwar_flags:mast_lower
+  /giveme modernwar_flags:mast_upper
 
 By default, The "Ukraine" flag will appear when the upper mast is placed because The war in Ukraine and Russia is the current war in modern times
 
