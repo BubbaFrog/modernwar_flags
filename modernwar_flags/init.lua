@@ -33,7 +33,7 @@ flag_list = { -- generic inoffensive single color flags
 	"un",
 	"nato",
 	"wagner",
-	"zov",     "isis",  "sinaloa", "belarus",
+	"zov",     "isis",  "sinaloa", "belarus", "afghan",
 	"azov",
 	"cjng",   "france", "germany", "ukraine2", "uganda", "serbia", "cia",
 	"taliban",
